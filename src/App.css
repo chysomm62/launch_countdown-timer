@@ -132,7 +132,7 @@ ul {
 
 h1 {
   text-transform: uppercase;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 700;
 }
 
@@ -233,12 +233,12 @@ footer div img:hover {
   filter: grayscale(10%) sepia(50%);
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 800px) {
   .wrapper {
     max-height: 100vh;
   }
   h1 {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
   }
   section {
     margin: 0 1rem;
