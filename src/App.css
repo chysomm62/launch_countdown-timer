@@ -234,6 +234,9 @@ footer div img:hover {
 }
 
 @media screen and (min-width: 700px) {
+  .wrapper {
+    max-height: 100vh;
+  }
   h1 {
     font-size: 2.5rem;
   }
