@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/images/Countdown timer.png
+![./src/images/Countdown timer.png](./src/images/Countdown timer.png
 )
 
 ### Links
