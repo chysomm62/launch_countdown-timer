@@ -15,8 +15,6 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -65,6 +63,6 @@ I want to improve my REACT and JavaScript knowledge, so I might be working on ot
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Github - [@chysomm62](https://www.github.com/chysomm62)
 - Frontend Mentor - [@Chysomm62](https://www.frontendmentor.io/profile/chysomm62)
-- Twitter - [@yourusername](https://www.twitter.com/chipreda)
+- Twitter - [@chisom](https://www.twitter.com/chipreda)
