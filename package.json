@@ -1,6 +1,6 @@
 {
   "name": "count-down-timer",
-  "homepage": "http://chysomm62.github.io/launch-countdown-timer",
+  "homepage": "http://chysomm62.github.io/launch_countdown-timer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
